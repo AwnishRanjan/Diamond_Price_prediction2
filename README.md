@@ -6,12 +6,14 @@ predicts diamond prices using a provided dataset.
 
 ::::::::::::::::::::::::::::::::Installation:::::::::::::::::::::::::::::::
 
+
 git clone https://github.com/AwnishRanjan/Diamond_Price_prediction2.git
 cd diamond-price-prediction
 
 
 Project Structure::::::::::::::::::::::::::::::::::::::::::
-src/: Contains the source code of the project.
+
+src::: Contains the source code of the project.
 
 pipelines/: Scripts for data transformation, training, and prediction.
 components/: Modules for data transformation, model training, and prediction.
